@@ -65,7 +65,7 @@ Learning rate refinement
 | Model        | Device   | Final mIoU |
 | ------------ | -------- | ---------- |
 | UNet++       | 4GB GPU  | 0.5887     |
-| SegFormer-B4 | RTX 3050 | **0.61**   |
+| SegFormer-B4 | RTX 3050 | **0.6262**   |
 
 Key Observations
 
