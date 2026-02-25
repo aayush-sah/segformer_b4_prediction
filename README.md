@@ -1,5 +1,5 @@
-Duality AI – Offroad Semantic Segmentation
-Robust Scene Understanding for Desert Autonomy
+ Duality AI – Offroad Semantic Segmentation
+ Robust Scene Understanding for Desert Autonomy
 
 Team: 404 BRAIN NOT FOUND
 Track: Semantic Segmentation
